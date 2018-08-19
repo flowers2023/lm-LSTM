@@ -1,0 +1,16 @@
+[I 11:12:29.110 NotebookApp] Serving notebooks from local directory: /home/dc/tf/jupyter/data
+[I 11:12:29.110 NotebookApp] The Jupyter Notebook is running at:
+[I 11:12:29.110 NotebookApp] http://(xiaoi-gy-74 or 127.0.0.1):8888/
+[I 11:12:29.110 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 11:12:29.127 NotebookApp] 302 GET /tree (127.0.0.1) 1.12ms
+Jupyter Notebook requires JavaScript.
+Please enable it to proceed.
+Jupyter Notebook
+Password: [                    ] Log in
+[W 11:12:31.039 NotebookApp] 404 GET /api/kernels/ecda49cd-53b3-4772-941c-932a502f89e7/channels?session_id=c410cfe8f8fd4d1a85a7cc4602d4858a (172.20.8.11): Kernel does not exist: ecda49cd-53b3-4772-941c-932a502f89e7
+[W 11:12:31.051 NotebookApp] 404 GET /api/kernels/ecda49cd-53b3-4772-941c-932a502f89e7/channels?session_id=c410cfe8f8fd4d1a85a7cc4602d4858a (172.20.8.11) 30.09ms referer=None
+[W 11:12:40.561 NotebookApp] 404 GET /notebooks/wine_price_predict.ipynb (172.20.8.11): No such file or directory: wine_price_predict.ipynb
+[W 11:12:40.563 NotebookApp] 404 GET /notebooks/wine_price_predict.ipynb (172.20.8.11) 2.65ms referer=http://172.16.203.32:8888/tree?
+[W 11:44:06.383 NotebookApp] 404 GET /notebooks/wine_price_predict.ipynb (172.20.8.11): No such file or directory: wine_price_predict.ipynb
+[W 11:44:06.386 NotebookApp] 404 GET /notebooks/wine_price_predict.ipynb (172.20.8.11) 5.70ms referer=http://172.16.203.32:8888/tree?
+[I 11:44:09.682 NotebookApp] 302 GET /notebooks/ (172.20.8.11) 3.45ms
