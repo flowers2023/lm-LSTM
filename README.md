@@ -7,7 +7,6 @@
 python3.6 tensorflow1.9
 
 #### 模型训练
-采用合同的语料进行训练<br>
 ```Bash
 python lm_lstm.py
 
